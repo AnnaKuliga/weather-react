@@ -9,6 +9,7 @@ export default function Footer() {
             <a
               href="https://github.com/AnnaKuliga/My-Weather-App"
               target="_blank"
+              rel="noreferrer"
             >
               Open-source code
             </a>
@@ -16,12 +17,17 @@ export default function Footer() {
             <a
               href="https://www.linkedin.com/in/anna-kuliga-967186224/"
               target="_blank"
+              rel="noreferrer"
             >
               Anna Kuliga
             </a>
             <br />
             Photo by
-            <a href="https://unsplash.com/@ujitomo" target="_blank">
+            <a
+              href="https://unsplash.com/@ujitomo"
+              target="_blank"
+              rel="noreferrer"
+            >
               {" "}
               Tomoko Uji{" "}
             </a>{" "}

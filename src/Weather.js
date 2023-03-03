@@ -1,10 +1,11 @@
 import "./Weather.css";
 import Footer from "./Footer";
 import Search from "./Search";
+
 export default function Weather() {
   return (
     <div className="Weather">
-      <div class="weather-app-wrapper">
+      <div className="weather-app-wrapper">
         <div className="weather-app-body">
           <Search />
 
