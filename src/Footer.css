@@ -1,0 +1,13 @@
+.Footer a {
+  color: rgb(66, 65, 65);
+  text-decoration: none;
+}
+
+.Footer a:hover {
+  color: #27a8c9;
+}
+.Footer .referenceLink {
+  font-size: 18px;
+  margin-top: 20px;
+  text-align: center;
+}
