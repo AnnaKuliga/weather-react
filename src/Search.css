@@ -1,0 +1,9 @@
+.Search #search-city-bar {
+  line-height: 2.5;
+  margin: auto 0;
+  padding: 50px;
+  width: 50%;
+}
+.Search #search-form {
+  width: 50%;
+}
